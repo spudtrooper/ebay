@@ -37,11 +37,7 @@ github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
 github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
-github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
-github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/rivo/duplo v0.0.0-20180323201418-c4ec823d58cd/go.mod h1:gw8DEItjXFxacZzluOv7azm5G22Vvx/OBZb7Wqoqp9M=
-github.com/spudtrooper/genopts v0.0.4 h1:RnN6MIuSEkxCdBCwz4oxiR+iKT4q7bc6Yq9zWQJmuog=
-github.com/spudtrooper/genopts v0.0.4/go.mod h1:3B8uZ67+KMYVPEPwV2vA4QqtPIughGxiSmC4rWoit7c=
 github.com/spudtrooper/goutil v0.1.10 h1:94MZmSC1xdwE/+zJfv5rBxtFlrAgBoBbgngAOhX03x8=
 github.com/spudtrooper/goutil v0.1.10/go.mod h1:VTWdbHleH5kZRifa7m1iJTg/3v1BZMDxdCmG2tiKodc=
 github.com/tebeka/selenium v0.9.9 h1:cNziB+etNgyH/7KlNI7RMC1ua5aH1+5wUlFQyzeMh+w=

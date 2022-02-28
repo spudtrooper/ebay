@@ -10,8 +10,6 @@ require (
 require (
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/go-errors/errors v1.4.0 // indirect
-	github.com/pkg/errors v0.9.1 // indirect
-	github.com/spudtrooper/genopts v0.0.4 // indirect
 	github.com/yosssi/gohtml v0.0.0-20201013000340-ee4748c638f4 // indirect
 	golang.org/x/net v0.0.0-20190620200207-3b0461eec859 // indirect
 )
